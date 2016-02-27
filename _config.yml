@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0
+color:
+  saturation: 0.4425055
+  lightness: 0.4764344
+  brandStrength: 0.5787234
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#434343'
+    - '#CDCDCD'
+    - '#919191'
+  rhythmicContrast: 0.3214114
+name: Mister Piksel
