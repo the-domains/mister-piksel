@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Custom Imaging without limit
+title: Mister Piksel
 cta:
   domain: null
   bucket: null
