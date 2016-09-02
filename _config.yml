@@ -1,5 +1,34 @@
-title: Mister Piksel
-purpose: []
+typography_spectrum: 0
+color:
+  saturation: 1
+  brandStrength: 0.5787234
+  lightness: 0.5483871
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#434343'
+    - '#CDCDCD'
+    - '#919191'
+  rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Mister Piksel
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: 'We Make Your Design '
+    url: misterpiksel.com
+    type: external
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +41,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 1
-  brandStrength: 0.5787234
-  lightness: 0.5483871
-  brandColors:
-    - '#000000'
-    - '#FFFFFF'
-    - '#434343'
-    - '#CDCDCD'
-    - '#919191'
-  rhythmicContrast: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: Mister Piksel
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0
-layout_spectrum: 1
+title: Mister Piksel
+purpose: []
