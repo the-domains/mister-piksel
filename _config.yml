@@ -19,6 +19,10 @@ analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: Tji Fung
+  email: tjifung@gmail.com
+  url: misterpiksel.com
 name: Mister Piksel
 cta:
   bucket: null
@@ -41,6 +45,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Mister Piksel
+title: We MAKE your design
 description: we make your design
 purpose: []
