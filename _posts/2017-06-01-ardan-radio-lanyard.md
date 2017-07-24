@@ -1,10 +1,10 @@
 ---
 publisher: {}
-datePublished: '2017-06-15T03:52:16.511Z'
-dateModified: '2017-06-15T03:52:15.605Z'
+datePublished: '2017-07-24T03:16:54.723Z'
+dateModified: '2017-07-24T03:16:53.937Z'
 via: {}
 description: Ardan Radio Printing Lanyards
-title: ''
+title: ARDAN Radio Lanyard
 sourcePath: _posts/2017-06-01-ardan-radio-lanyard.md
 inFeed: true
 author: []
