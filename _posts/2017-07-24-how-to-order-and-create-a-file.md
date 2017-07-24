@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: How to Order and create a file
-dateModified: '2017-07-24T03:12:03.093Z'
-datePublished: '2017-07-24T03:12:03.638Z'
-title: ''
+dateModified: '2017-07-24T03:20:23.125Z'
+datePublished: '2017-07-24T03:20:23.945Z'
+title: How to design a Lanyard for production
 author: []
 publisher: {}
 via: {}
@@ -13,6 +13,6 @@ datePublishedOriginal: '2017-07-24T00:55:30.682Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ddd5c40-129d-484c-b99a-12fc77871b5a.pdf)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8a6aeb6-1528-45d5-b009-990d862fd1d1.png)
 
 How to Order and create a file
