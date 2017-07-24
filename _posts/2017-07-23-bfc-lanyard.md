@@ -1,10 +1,10 @@
 ---
 publisher: {}
-datePublished: '2017-07-23T14:52:53.735Z'
-dateModified: '2017-07-23T14:52:52.500Z'
+datePublished: '2017-07-24T03:17:22.370Z'
+dateModified: '2017-07-24T03:17:21.406Z'
 via: {}
 description: BFC Lanyard
-title: ''
+title: BFC Lanyards
 sourcePath: _posts/2017-07-23-bfc-lanyard.md
 inFeed: true
 author: []
