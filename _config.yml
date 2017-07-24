@@ -1,50 +1,130 @@
-typography_spectrum: 0
-color:
-  saturation: 1
-  brandStrength: 0.5787234
-  lightness: 0.5483871
-  brandColors:
-    - '#000000'
-    - '#FFFFFF'
-    - '#434343'
-    - '#CDCDCD'
-    - '#919191'
-  rhythmicContrast: 0
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: Master Lanyard
+analytics: {}
+purpose:
+  - type: contact
+    url: 'mailto:masterlanyard@gmail.com'
+    label: email us
+  - type: phone
+    url: 'tel:08121000339'
+    label: Whatsapp 08121000339
+github: true
+description: Your Future Lanyard and Beyond
 author:
   name: Tji Fung
+  url: 'http://masterlanyard.com'
   email: tjifung@gmail.com
-  url: misterpiksel.com
-name: Mister Piksel
 cta:
   bucket: null
   version: null
   domain: null
-navigation:
-  - name: 'We Make Your Design '
-    url: misterpiksel.com
-    type: external
-favicon: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: ''
-description: ''
-purpose: []
+layout_spectrum: 0.5531990480775217
+navigation:
+  - type: external
+    name: Another GREAT things
+    url: 'http://juraganlanyard.com'
+color:
+  lightness: 0.882971877556036
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  saturation: 0.04616011844422337
+  brandStrength: 0.1223031366094578
+  rhythmicContrast: 0.5869924010088353
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0278fbc-bfa0-45d5-a651-2782b2f52e47.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0278fbc-bfa0-45d5-a651-2782b2f52e47.jpg
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3faeb9f-7288-4faf-ace8-71588fae3a6a.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3faeb9f-7288-4faf-ace8-71588fae3a6a.jpg
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c72f75a6-73b2-42d9-9b00-153d4ac10cbc.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c72f75a6-73b2-42d9-9b00-153d4ac10cbc.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+content_rating:
+  adult: false
+typography_spectrum: 0.545075208476219
+opengraph:
+  type: Juragan Lanyard
+  appId: 'https://www.facebook.com/pg/juraganlanyard/'
+title: Lanyard Printing
+coverPrefs:
+  filter: false
