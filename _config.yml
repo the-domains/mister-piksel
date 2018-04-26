@@ -31,9 +31,9 @@ collections:
       number: 10
 layout_spectrum: 0.5531990480775217
 navigation:
-  - type: external
-    name: Another GREAT things
+  - name: Another GREAT things
     url: 'http://juraganlanyard.com'
+    type: external
 color:
   lightness: 0.882971877556036
   brandColors:
@@ -45,104 +45,7 @@ color:
   saturation: 0.04616011844422337
   brandStrength: 0.1223031366094578
   rhythmicContrast: 0.5869924010088353
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0278fbc-bfa0-45d5-a651-2782b2f52e47.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0278fbc-bfa0-45d5-a651-2782b2f52e47.jpg
-    metadata:
-      author: []
-      datePublished: null
-      keywords: []
-      '@type': MediaObject
-      publisher:
-        favicon: null
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-      related: []
-      app_links: []
-      '@context': 'http://schema.org'
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3faeb9f-7288-4faf-ace8-71588fae3a6a.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3faeb9f-7288-4faf-ace8-71588fae3a6a.jpg
-    metadata:
-      author: []
-      datePublished: null
-      keywords: []
-      '@type': MediaObject
-      publisher:
-        favicon: null
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-      related: []
-      app_links: []
-      '@context': 'http://schema.org'
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c72f75a6-73b2-42d9-9b00-153d4ac10cbc.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c72f75a6-73b2-42d9-9b00-153d4ac10cbc.png
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e0ae61e-5b19-4fa1-94df-5661a4656077.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e0ae61e-5b19-4fa1-94df-5661a4656077.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 content_rating:
   adult: false
 typography_spectrum: 0.545075208476219
