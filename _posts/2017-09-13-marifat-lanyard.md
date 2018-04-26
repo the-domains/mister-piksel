@@ -1,12 +1,12 @@
 ---
 publisher: {}
-dateModified: '2018-04-26T08:09:04.906Z'
+dateModified: '2018-04-26T08:10:53.853Z'
 via: {}
-description: Ma’rifat Lanyard
-title: ''
+description: ''
+title: Ma’rifat Lanyard
 inFeed: true
 author: []
-datePublished: '2018-04-26T08:09:05.751Z'
+datePublished: '2018-04-26T08:10:55.228Z'
 sourcePath: _posts/2017-09-13-marifat-lanyard.md
 starred: true
 datePublishedOriginal: '2017-09-13T14:13:07.288Z'
